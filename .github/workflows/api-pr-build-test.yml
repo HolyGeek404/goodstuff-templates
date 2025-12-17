@@ -9,7 +9,7 @@ on:
         description: 'Path to Unit Test .csproj file'
 
 jobs:
-  build:
+  Build-and-Run-Tests:
     runs-on: ubuntu-latest
     
     steps:
